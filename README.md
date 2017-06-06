@@ -161,6 +161,10 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + https://github.com/getflourish/Sketch-Style-Inventory
 + 
 
+## 学习资料
++ [gogithub](http://www.worldhello.net/gotgithub/index.html) 学习使用github
++ [怎样使用 GitHub](https://juejin.im/entry/56e638591ea49300550885cc) 妹子写的github,简单易学
+
 ## Photoshop
 
 ##移动端利器（iOS为主）
